@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "489160307251",
+    "project_id": "listamovilespro",
+    "storage_bucket": "listamovilespro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489160307251:android:c7375523741d4f29132946",
+        "android_client_info": {
+          "package_name": "com.example.listafirebasemoviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489160307251-edpgfin5osf0nt5kmqjfs42ai1tl9g95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.listafirebasemoviles",
+            "certificate_hash": "08533f3c60755445f8b4ca032ed161785235ecbf"
+          }
+        },
+        {
+          "client_id": "489160307251-b8vc85cs34poiubgbb9p6l305en8htt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrtP22CKqtqc1ehR4ey_Qt3ahY6w1bjxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489160307251-b8vc85cs34poiubgbb9p6l305en8htt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
